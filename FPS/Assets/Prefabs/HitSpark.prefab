@@ -5007,8 +5007,8 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 0.8
-      minScalar: 0.2
+      scalar: 0.2
+      minScalar: 0.05
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -9792,7 +9792,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5811900336970452275}
   m_Layer: 0
-  m_Name: HitSpark 1
+  m_Name: HitSpark
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
